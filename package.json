@@ -1,5 +1,5 @@
 {
-  "name": "comp229-f2020-midterm",
+  "name": "comp229-f2021-midterm",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -52,10 +52,10 @@
     "ExpressJS",
     "EJS"
   ],
-  "author": "Your Name Goes Here",
+  "author": "Matthew Bradley",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/WardenWoods/WardenWoods-COMP229-Midterm---F2021"
   },
   "homepage": ""
 }
