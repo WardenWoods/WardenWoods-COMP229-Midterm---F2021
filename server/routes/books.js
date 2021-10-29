@@ -8,6 +8,7 @@ Student ID: 301089966
 let express = require('express');
 let router = express.Router();
 let mongoose = require('mongoose');
+const books = require('../models/books');
 
 // define the book model
 let book = require('../models/books');
