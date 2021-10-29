@@ -35,7 +35,7 @@ router.get('/add', (req, res, next) => {
     /*****************
      * ADD CODE HERE *
      *****************/
-     res.render('books/details.ejs', {title: 'Add a book', books:''});
+     res.render('books/details', {title: 'Add a book', books:''});
 
 });
 
